@@ -1,3 +1,4 @@
+//still in beta but feel free to make modifications
 #include "mysql.h"
 #include "sha1.h"
 
