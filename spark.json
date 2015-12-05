@@ -1,7 +1,7 @@
 {
   "name": "mysql",
   "author": "steve foxton",
-  "license": "MIT",
+  "license": "GNU GPL",
   "version": "0.0.10",
   "description": "connects a particle device to mysql"
 }
